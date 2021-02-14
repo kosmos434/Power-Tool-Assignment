@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Power Tool Rental App 🔨</string>
+    <string name="textviewTitle">Power Tool Rental</string>
+    <string name="number_of_days">Number of Days</string>
+    <string name="power_washer">Power Washer</string>
+    <string name="tiller">Tiller</string>
+    <string name="calculate">Calculate</string>
+    <string name="result_goes_here">…</string>
+    <string name="labelTools">Tool</string>
+</resources>
